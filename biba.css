@@ -1,0 +1,48 @@
+.body{
+    height: 500px;
+    width: 1000px;
+    background-color: beige;
+}
+.header{
+    width: 1000px;
+    height: 105px;
+    background-color: chocolate;
+}
+.para{
+    font-family: cursive;
+    color: rgb(20, 230, 212);
+    font-size: 20px;
+    position: relative;
+    bottom: 2px;
+    right: -62px;
+}
+#para1{
+    font-family: cursive;
+    color: rgb(20, 230, 212);
+    font-size: 20px;
+    position: relative;
+    bottom: 90px;
+    left: 302px;
+}
+.header ul li{
+    list-style-type: none;
+    padding: 20px;
+    display: inline;
+    position: relative;
+    bottom: 137px;
+    left: 500px;
+}
+.header ul li a{
+    text-decoration: none;
+    color: red;
+    font-size: 20px;
+}
+.header ul li a:link{
+    color:blue;
+}
+.header ul li a:visited{
+    color: coral;
+}
+.header ul li a:hover{
+    color: darkgreen;
+}
